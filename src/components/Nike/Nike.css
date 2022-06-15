@@ -1,0 +1,39 @@
+.Nike{
+width: 1200px;
+/* height: 200px; */
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+
+}
+
+.nike_one{
+    width: 100px;
+    height: 100px;
+   
+}
+
+.nike_two{
+    width: 100px;
+    height: 100px;
+}
+
+.nike_three{
+    width: 100px;
+    height: 100px;
+}
+
+.nike_four{
+    width: 100px;
+    height: 100px;
+}
+
+.nike_five{
+    width: 100px;
+    height: 100px;
+}
+
+.nike_six{
+    width: 100px;
+    height: 100px;
+}
